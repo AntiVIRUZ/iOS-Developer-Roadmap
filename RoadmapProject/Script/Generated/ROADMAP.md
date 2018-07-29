@@ -4,12 +4,12 @@ Tapping on a link will take you to relevant materials.
 
 - [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
     - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)
-        - [ ] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
-            - [ ] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
+        - [x] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
+            - [x] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
         - [ ] [`Languages`](Resources/iOS_Developer/Practical_knowledge/Languages/RESOURCES.md)
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
-                - [ ] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
-                    - [ ] [Memory Management](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/Memory_Management/RESOURCES.md)
+                - [x] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
+                    - [x] [Memory Management](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/Memory_Management/RESOURCES.md)
                 - [ ] [KVC](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVC/RESOURCES.md)
                 - [ ] [KVO](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVO/RESOURCES.md)
                 - [ ] [Toll-free bridging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Toll-free_bridging/RESOURCES.md)
@@ -100,11 +100,11 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Template Method
                     - [ ] MVC
                 - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
-                    - [ ] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
+                    - [x] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
                     - [ ] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
-                    - [ ] `MVP`
+                    - [x] `MVP`
                     - [ ] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
-                        - [ ] [VIPER](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
+                        - [x] [VIPER](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
                         - [ ] [RIBs](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
                     - [ ] [Coordinators](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
                 - [ ] `Creational`
@@ -122,7 +122,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Decorator
                     - [ ] Facade
                     - [ ] Flyweight
-                    - [ ] Proxy
+                    - [x] Proxy
                 - [ ] `Behavioural`
                     - [ ] Command
                     - [ ] Chain of responsibility
@@ -137,7 +137,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] Concurrency
                     - [ ] Anti-pattern
             - [ ] `Design Principles`
-                - [ ] [`SOLID`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
+                - [x] [`SOLID`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
                 - [ ] `Inversion of Control`
                     - [ ] [`Dependency Injection`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Principles/Inversion_of_Control/Dependency_Injection/RESOURCES.md)
                     - [ ] Service Locator
@@ -186,28 +186,28 @@ Tapping on a link will take you to relevant materials.
         - [ ] WatchKit
     - [ ] `Computer Science knowledge`
         - [ ] [`Algorithms`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/RESOURCES.md)
-            - [ ] `Sorting`
-            - [ ] `Graph Theory`
-                - [ ] Trees
+            - [x] `Sorting`
+            - [x] `Graph Theory`
+                - [x] Trees
             - [ ] [`Strings`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
             - [ ] Greedy
-            - [ ] Dynamic Programming
-            - [ ] Bit Manipulation
-            - [ ] `Recursion`
+            - [x] Dynamic Programming
+            - [x] Bit Manipulation
+            - [x] `Recursion`
             - [ ] Game Theory
             - [ ] NP Complete
-            - [ ] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
+            - [x] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
         - [ ] `Abstract Data Types`
-            - [ ] `Stack`
-            - [ ] `Array`
-            - [ ] `List`
-            - [ ] `Map`
+            - [x] `Stack`
+            - [x] `Array`
+            - [x] `List`
+            - [x] `Map`
             - [ ] Multimap
-            - [ ] `Set`
+            - [x] `Set`
             - [ ] Multiset (Bag)
-            - [ ] `Graph`
-                - [ ] Tree
-            - [ ] `Queue`
+            - [x] `Graph`
+                - [x] Tree
+            - [x] `Queue`
             - [ ] Priority Queue
             - [ ] Double-ended priority queue
             - [ ] Double-ended queue
